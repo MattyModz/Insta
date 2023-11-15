@@ -2,7 +2,7 @@
 
 ### Screenshot of submission
 
-![Submission screenshot](./public/complete.png)
+![Submission screenshot](/app/public/complete.png)
 
 This was a fun one to do! See below for the approach and features implemented.
 
