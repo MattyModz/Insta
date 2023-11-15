@@ -2,18 +2,18 @@
 
 ### Screenshot of submission
 
-![Submission screenshot](./complete.png)
+![Submission screenshot](./public/complete.png)
 
-This was a fun one to do, see below for approach and features implemented
+This was a fun one to do! See below for the approach and features implemented.
 
-## Reusable Button componant
+## Reusable Button Component
 
-Extended browser Html props to reusable button componant for accesability with typesafety and unopinianated styling; for variations to be mocked up and reused across the app. Opted for vanilla css, though could have extended this to emotion css in js.
+Extended browser HTML props to a reusable button component for accessibility with type safety and unbiased styling; intended for variations to be mocked up and reused across the app. Opted for vanilla CSS, although this could have been extended to Emotion CSS-in-JS.
 
-## Typesafety for componants
+## Type Safety for Components
 
-Demonstrated Implemention of basic type safety for componant files. Futher extension would include definite typesafety for requested data.
+Demonstrated implementation of basic type safety for component files. Further extension would include definite type safety for requested data.
 
 ## Testing
 
-Implementaiton of jest function testing for post time stamp output found in Time_stamp_outputtest.test.js
+Implemented Jest function testing for post timestamp output, found in `Time_stamp_outputtest.test.js`.
